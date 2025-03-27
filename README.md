@@ -9,10 +9,10 @@ This project explores the trending videos on YouTube using R. The dataset is sou
 
 ## 📁 Structure
 
-- `youtube_trending_analysis.R` - full analysis script
+- `youtube_trending_analysis.R` - code
 - `plots/` - exported visualizations
 - `youtube.csv` - raw dataset
-
+- `YouTube Trending Videos Dataset Analysis.pdf` - full analysis script
 ## 📌 Insights
 
 - Entertainment has the most trending videos, but Music gets more likes per video.
